@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Min Khant Naing  
 
-<!--
-**MinKhantNaing1999/MinKhantNaing1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | 🤖 Future AI/ML Engineer  
+💡 Passionate about **Computer Vision, MLOps, and Data Science**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Python, Java, JavaScript (Node.js) 
+- **Web:** Flask, FastApI, React, Express, MongoDB, Firebase  
+- **AI/ML:** PyTorch, TensorFlow, OpenCV, Scikit-learn  
+- **Tools:** Git, Docker, GCP, Jenkins
+
+## 📂 Featured Projects
+- 🏨 [Hotel Reservation Prediction System](https://github.com/MinKhantNaing1999/Hotel-Reservation-Cancellation-Prediction) – ML + Flask + GCP + CI/CD and 🌐 [Live Demo](https://hotel-reservation-256158427613.us-central1.run.app)
+- 🔫 [Gun Detection API](https://github.com/MinKhantNaing1999/Gun-Detection) – Object Detection + Deep Learning + Faster R-CNN + DVC + FastAPI + Model on [Hugging Face](https://huggingface.co/minkhantnaing/gun-detection-model)
+- 🥭 Mango Bruise Detection System – Interactive K-Means clustering for bruise detection; source code is private and available upon request for authorized use
+
+## 🌱 What I’m Learning
+- MLOps for computer vision
+- Associate AI Engineer course for Data Scientist   
+- Cloud deployment (AWS, Kubernetes)
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](www.linkedin.com/in/min-khant-naing-09a9b51ba)  
+- 🌐 [Portfolio Website]() *(soon!)*  
+- 📧 Email: minkhantnaing344@gmail.com
