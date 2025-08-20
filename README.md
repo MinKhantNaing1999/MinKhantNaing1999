@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Min Khant Naing  
 
-🎓 Software Engineering Student | 🤖 Future AI/ML Engineer  
+🎓 Fourth year Software Engineering Student at Mae Fah Luang University
+🤖 Building career in AI/ML Engineer  
 💡 Passionate about **Computer Vision, MLOps, and Data Science**
 
 ---
