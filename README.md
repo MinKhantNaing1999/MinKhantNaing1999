@@ -17,6 +17,8 @@
 - 🔫 [Gun Detection API](https://github.com/MinKhantNaing1999/Gun-Detection) – Object Detection + Deep Learning + Faster R-CNN + DVC + FastAPI + Model on [Hugging Face](https://huggingface.co/minkhantnaing/gun-detection-model)
 - 🥭 Mango Bruise Detection System – Interactive K-Means clustering for bruise detection; source code is private and available upon request for authorized use
 
+  👉 Check out my **school projects** on my [School GitHub](https://github.com/MinKhantNaing16)
+
 ## 🌱 What I’m Learning
 - MLOps for computer vision
 - Associate AI Engineer course for Data Scientist   
