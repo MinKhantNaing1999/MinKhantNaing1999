@@ -26,5 +26,5 @@
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](www.linkedin.com/in/min-khant-naing-09a9b51ba)  
-- 🌐 [Portfolio Website](https://portfolio-minkhantnaing1999s-projects.vercel.app)
+- 🌐 [Portfolio Website](https://portfolio-beige-phi-94.vercel.app/)
 - 📧 Email: minkhantnaing344@gmail.com
